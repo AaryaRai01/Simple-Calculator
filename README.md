@@ -1,2 +1,2 @@
 # Simple-Calculator
-Simple calculator made in java language
+GUI Simple calculator made in java language
